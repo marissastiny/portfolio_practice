@@ -19,13 +19,11 @@ h3 {
    text-align: center;
 }
 
-
-.p {
-    font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+div.a {
+    text-align: center;
   }
 
-img {
+.img {
     display: block;
     margin-left: auto;
     margin-right: auto;
