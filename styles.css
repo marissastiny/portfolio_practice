@@ -19,6 +19,10 @@ h3 {
    text-align: center;
 }
 
+p.1 {
+    color: pink; 
+}
+
 div.a {
     text-align: center;
   }
