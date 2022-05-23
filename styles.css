@@ -4,7 +4,11 @@ body {
 
 
 h1 {
-    color: red;
+    color: blue;
+}
+
+h2 {
+    color: violet;
 }
 
 h3 {
@@ -14,9 +18,9 @@ h3 {
 
 
 .green-text {
-    color: green;
+    color: black;
 }
 
 #animate-hover:hover {
-    color: red;
+    color: pink;
 }
