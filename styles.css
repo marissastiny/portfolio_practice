@@ -1,51 +1,22 @@
-/* Basic Styling - don't alter this part! */
-html,
 body {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color: rgb(217, 234, 240);
-    color: #555;
-}
-header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
-    padding: 25px;
-}
-header h1 {
-    margin: 0;
-}
-main h2 {
-    color: black;
-    text-decoration: underline;
-}
-.container {
-    width: 65%;
-    margin: 0 auto;
+    background: pink;
 }
 
-/* Add Student Styles Below */
-.marissa-style {
-    color: maroon;
-    background-color: black;
-    padding: 3px;
+
+h1 {
+    color: red;
 }
 
-.code-ninja-style {
-    color: blue;
-    background-color: paleturquoise;
-    padding: 3px;
+h3 {
+   background: white; 
+   text-align: center;
 }
 
-.codys-styles {
-    background:rgb(92, 149, 235);
+
+.green-text {
+    color: green;
 }
 
-.stans-styles {
-    background-color:bisque;
-}
-
-.my-bio {
-    background-color: plum;
-    color: white;
+#animate-hover:hover {
+    color: red;
 }
